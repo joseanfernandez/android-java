@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="OutletTheme" parent="AppTheme">
+        <item name="colorPrimary">@android:color/holo_red_dark</item>
+        <item name="colorAccent">@android:color/holo_blue_light</item>
+        <item name="android:statusBarColor">@android:color/darker_gray</item>
+    </style>
+
+    <style name="Outlet2Theme" parent="OutletTheme">
+        <item name="colorPrimary">@color/VividRed</item>
+        <item name="android:statusBarColor">@color/Dark_Red</item>
+        <item name="colorPrimaryDark">@color/Dark_Red</item>
+        <item name="android:navigationBarColor">@color/Dark_Red</item>
+    </style>
+</resources>

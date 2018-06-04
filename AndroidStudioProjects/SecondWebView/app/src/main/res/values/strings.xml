@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SecondWebView</string>
+    <string name="txt_web">Website</string>
+    <string name="GoTo">Go to the website</string>
+    <string name="close">Close</string>
+</resources>

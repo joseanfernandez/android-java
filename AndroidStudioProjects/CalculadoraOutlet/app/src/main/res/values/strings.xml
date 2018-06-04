@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Outlet</string>
+    <string name="pInicial_st">Precio</string>
+    <string name="dto_st">% de descuento</string>
+    <string name="rb1_st">Calcular precio con descuento</string>
+    <string name="rb2_st">Calcular precio original</string>
+    <string name="button">Calcular</string>
+    <string name="resultado_st"></string>
+</resources>

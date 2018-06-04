@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285000808376",
+    "firebase_url": "https://signinup-1f7d0.firebaseio.com",
+    "project_id": "signinup-1f7d0",
+    "storage_bucket": "signinup-1f7d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285000808376:android:033d9def4d127466",
+        "android_client_info": {
+          "package_name": "com.example.joseantonio.signinup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285000808376-uj34stjcr4ee77kf3k2aceub9duq57uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RmEslFZtEJxiel4C479ZC63bZpxBQW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285000808376-uj34stjcr4ee77kf3k2aceub9duq57uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

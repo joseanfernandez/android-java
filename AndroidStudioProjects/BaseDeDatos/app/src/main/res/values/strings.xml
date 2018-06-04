@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaseDeDatos</string>
+    <string name="txt_code">Product code</string>
+    <string name="txt_description">Product description</string>
+    <string name="txt_price">Product Price</string>
+    <string name="bt1">Register product</string>
+    <string name="bt2">Search product</string>
+    <string name="bt3">Delete product</string>
+    <string name="bt4">Modify product</string>
+</resources>

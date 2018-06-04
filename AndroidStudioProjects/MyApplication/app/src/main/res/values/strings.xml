@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="txt_view_String">Calificación final: </string>
+    <string name="txt_programacion_String">Programación</string>
+    <string name="txt_basesDeDatos_String">Bases de Datos</string>
+    <string name="txt_lenguajeMarcas_String">Lenguaje de Marcas</string>
+    <string name="button">Evaluar</string>
+</resources>
